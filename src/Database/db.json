@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "hitman",
+      "phone": "7992291651",
+      "email": "rohit@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "navnit anand",
+      "username": "navnit28",
+      "email": "navnit_b190404cs@nitc.ac.in",
+      "phone": "6235132804",
+      "id": 2
+    }
+  ]
+}
